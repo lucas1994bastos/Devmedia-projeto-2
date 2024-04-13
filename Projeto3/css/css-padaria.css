@@ -1,0 +1,77 @@
+/* Alinhamento conteúdo no centro + cor de fundo */
+body{
+    text-align: center;
+    background-color: lightyellow;
+    margin:30px 150px;
+
+}
+.section1 img{
+    width:400px;
+}
+p {
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif
+}
+h2 {
+    font-size:30px;
+    color: chocolate;
+}
+h3 {
+    font-size:25px;
+    color:chocolate;
+}
+h4 {
+    font-size:25px;
+    text-decoration:underline;
+    text-decoration-color: brown;
+}
+/* Estilização dos links */
+.section1 a{
+    border:2px solid orange;
+    padding: 5px 10px;
+    border-radius: 30%;
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* Borda inferior */
+.section1 {
+    border-bottom: 2px solid brown ;
+    padding: 30px;
+}
+/* Arredondamento das imagens */
+img{
+    border-radius: 5%;
+    margin: 25px;
+}
+/* Tamanho da imagem no parágrafo (classe section-products) */
+p img{
+    width:400px
+}
+.section-products{
+    border: 2px solid brown;
+    background-color: chocolate;
+    color: white;
+    border-radius: 50px;
+}
+
+footer dd{
+    margin: 10px;
+    font-weight: bold;
+}
+footer dt{
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+footer dl{
+   border: 2px solid brown;
+   margin: 20px,0;
+   padding:20px;
+   color: white;
+   background-color: chocolate;
+   border-radius: 50px;
+}
+
+
