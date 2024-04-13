@@ -1,4 +1,3 @@
-/* Alinhamento conteúdo no centro + cor de fundo */
 body{
     text-align: center;
     background-color: lightyellow;
@@ -73,5 +72,3 @@ footer dl{
    background-color: chocolate;
    border-radius: 50px;
 }
-
-
