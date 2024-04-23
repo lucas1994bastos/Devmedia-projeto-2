@@ -1,0 +1,124 @@
+#{
+    width:auto;
+}
+.negrito-azul{
+    color:blue;
+    font-weight: bold;
+}
+.negrito-amarelo{
+    color: yellow;
+    font-weight: bold;
+}
+/* 1.Estilizações das seções */
+header,.sobre-empresa,.servico-prestado,.corretores, footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer p, footer ul{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+p{
+    margin: 10px auto 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+/* 2.Início da estilização do cabeçalho */
+header{
+    background-color: #B0DDFC;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.cabecalho li{
+    display: inline;
+    font-size: 18px;
+    margin-top:15px;
+    margin-bottom:25px;
+    font-family: Tahoma;
+    padding-left: 25px;
+}
+.cabecalho a{
+    font-size:18px;
+    color:#1d1d1d;
+    border-bottom:2px solid #1d1d1d;
+    text-decoration: none;
+    margin:0 10px 0 10px;
+}
+.cabecalho img{
+    width: 150px;
+}
+/* Fim do cabeçalho */
+
+/* 3. Estilização Seção 2  */
+.sobre-empresa h1{
+    font-size: 35px;
+    margin-bottom:5px;
+    color: #1d1d1d;
+}
+.sobre-empresa h2, .servico-prestado h2{
+    font-size: 28px;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 42px;
+}
+.sobre-empresa img{
+    width: 800px;
+}
+/* Estilização da seção 3 - Serviço prestado */
+.servico-prestado{
+    background-color: #1d80c1;
+    color: #ffffff;
+}
+.servico-prestado p{
+    width: 700px;
+    text-align: center;
+}
+.servico-prestado li{
+    margin:40px auto 40px auto;
+    width: 135px;
+    font-size:22px;
+    text-align: left;
+    line-height: 42px;
+}
+/* Estilização seção 4 - Corretores */
+
+.corretores img{
+    width:450px;
+}
+.corretores h2{
+    color: #1d80c1;
+}
+
+/* Estilização footer - Contato*/
+footer li{
+    margin:40px auto 40px auto;
+    width: 135px;
+    font-size:13px;
+    text-align: left;
+    padding-top: 0;
+}
+footer{
+    background-color: #1d80c1;
+    color: #ffffff;
+}
+footer p{
+padding-bottom: 0;
+}
+footer iframe{
+    width: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
