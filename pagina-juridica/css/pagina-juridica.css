@@ -1,0 +1,88 @@
+body{
+    margin: 1px 1px;
+    padding: 0;
+}
+/* Estilizando primeira div, topo da página */
+.secao_topo{
+    border: 1px solid #564740;
+    background-color: #4C3E3D;
+    color:#fff
+
+}
+.secao_largura_limitada{
+    width: 800px;
+    margin: 0 auto;
+}
+.secao_topo p{
+    padding: 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+/* Estilizando primeira imagem */
+.secao_background_capa{
+    background-image: url(/pagina-juridica/assets/capa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+.secao_background_conteudo{
+    text-align:right;
+    padding:50px 20px;
+}
+h1,h2,h3{
+    margin:0;
+}
+
+/* Estilizando primeira seção - Classe Sobre_nos */
+
+.secao_sobre_nos{
+    padding: 50px 20px;
+}
+.secao_sobre_nos_imagens{
+    display:inline;
+}
+.secao_sobre_nos_imagens .img-conteudo{
+    width: 250px;
+    height: 180px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.secao_sobre_nos .texto_missao{
+    border: 1px solid;
+    padding: 5px 10px;
+    font-size:20px;
+    border-radius: 20px;
+    margin-left: 30%;
+    color: #fff;
+    background-color: #000;
+    text-decoration: underline;
+}
+/* Estilizando os divisores de páginas - Efeito Paral*/ 
+.background_divisor_pagina{
+    padding: 50px 0;
+    text-align: center;
+    /* Efeito Parallax */
+    background-image: url(/pagina-juridica/assets/fundo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divisor_pagina h3{
+   color:black;
+   font-weight: bold;
+   background-color: white;
+   width:200px;
+   /* Centraliza o conteúdo com margin auto */
+   margin:0 auto;
+   font-size:36px;
+   border-radius: 20px;
+}
+/* Estilizando classe áreas de atuação  */
+.secao_area_atuacao{
+    padding:50px 20px;
+}
+
+/* Estilizando contatos */
+.secao_area_fale_conosco{
+    padding: 50px 20px;
+}
