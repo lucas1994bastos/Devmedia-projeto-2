@@ -3,7 +3,8 @@ Aqui constará **todos os projetos** feitos na trilha de desenvolvimento Front-e
 Abaixo você encontrará cada projeto e sua respectiva missão:
 
 **Missão 1** - Projeto Receita-bolo
-**Missão 2** - Projeto Pagina-livro
-**Missão 3** - Projeto Pagina-padaria
-**Missão 4** - Projeto Pagina-Imobiliária
-**Missão 5** - Projeto Pagina-juridica
+<br>
+**Missão 2** - Projeto Pagina-livro <br>
+**Missão 3** - Projeto Pagina-padaria <br>
+**Missão 4** - Projeto Pagina-Imobiliária <br>
+**Missão 5** - Projeto Pagina-juridica <br>
